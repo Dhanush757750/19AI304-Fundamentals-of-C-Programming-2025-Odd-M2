@@ -1,4 +1,4 @@
-<img width="793" height="378" alt="M2ex4" src="https://github.com/user-attachments/assets/a09054d1-614c-4387-ac88-a60bf67f2ed0" /># 19AI304-Fundamentals-of-C-Programming-2025-Odd-M2
+# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M2
 # IAPR-2- Module 2 - FoC
 ## 3. Implementation of programs using conditional statements.
 ## 4. Implementation of programs using various control statements.
@@ -93,7 +93,7 @@ int main() {
 }
 ```
 # Output:
-<img width="799" height="335" alt="M2ex1" src="https://github.com/user-attachments/assets/3448141d-9559-4809-868d-252da493e06f" />
+<img width="799" height="335" alt="M2ex1" src="https://github.com/user-attachments/assets/d8918625-3504-49c0-891b-23008ec979c0" />
 
 
 # Result: 
@@ -142,7 +142,7 @@ int main() {
 }
 ```
 # Output:
-<img width="802" height="491" alt="M2ex2" src="https://github.com/user-attachments/assets/ce9a1dc1-2f7e-4070-a49e-0767f1c2d2d9" />
+<img width="802" height="491" alt="M2ex2" src="https://github.com/user-attachments/assets/0281ffc3-7758-4cc5-88c1-cd64fe07d363" />
 
 
 # Result: 
@@ -214,7 +214,7 @@ int main() {
 }
 ```
 # Output:
-<img width="795" height="255" alt="M2ex3" src="https://github.com/user-attachments/assets/88c4ff57-bae0-49f2-918e-d64c4b4aa055" />
+<img width="795" height="255" alt="M2ex3" src="https://github.com/user-attachments/assets/23f84712-d26e-4794-b621-d36d02ad0b68" />
 
 
 # Result: 
@@ -298,7 +298,7 @@ int main() {
 }
 ```
 # Output:
-<img width="793" height="378" alt="M2ex4" src="https://github.com/user-attachments/assets/b60b98a3-c3f7-4d2f-9d53-573075564afa" />
+<img width="793" height="378" alt="M2ex4" src="https://github.com/user-attachments/assets/1737366d-d274-40a6-8e93-874ea72e96c6" />
 
 
 # Result: 
@@ -325,6 +325,7 @@ int main() {
  2  3  4  5  6  7  0  7  6  5  4  3  2
  
  1  2  3  4  5  6  7  0  7  6  5  4  3  2  1
+
 # Date : 18-11-2025
 # Aim: 
   To formulate a C program to print a symmetric numeric pattern in which each row contains an increasing sequence of numbers from the row value up to 7, followed by 0 in the center, and then a decreasing sequence of numbers back to the row value.
@@ -381,7 +382,7 @@ int main() {
 }
 ```
 # Output:
-<img width="799" height="665" alt="M2ex5" src="https://github.com/user-attachments/assets/c6ff869b-cbb1-4a6d-aa56-45f3652dbef2" />
+<img width="799" height="665" alt="M2ex5" src="https://github.com/user-attachments/assets/c4896b78-4d34-4be0-b4e1-1586f9a4b798" />
 
 
 # Result:
